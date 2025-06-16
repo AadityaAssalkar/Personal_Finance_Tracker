@@ -3,13 +3,13 @@
 **/.dart_tool/
 **/.idea/
 **/.packages
-**/pubspec.lock
 **/.flutter-plugins
 **/.metadata
+**/pubspec.lock
 
 # Node.js
-**/node_modules/
-**/package-lock.json
+backend/node_modules/
+backend/package-lock.json
 
 # General
 .env
