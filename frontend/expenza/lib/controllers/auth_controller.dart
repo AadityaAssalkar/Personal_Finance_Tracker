@@ -90,7 +90,7 @@ class AuthController extends ChangeNotifier {
 
       if (response.statusCode == 200) {
         final data = jsonDecode(response.body);
-        final token = data['token'];
+        final token = data['accessToken'];
 
         await _saveToken(token);
 

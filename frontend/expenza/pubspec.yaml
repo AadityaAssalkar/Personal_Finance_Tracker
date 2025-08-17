@@ -39,7 +39,7 @@ dependencies:
   google_fonts: ^6.3.0
   fl_chart: ^1.0.0
   flutter_slidable: ^4.0.0
-  http: ^1.4.0
+  http: ^1.5.0
 
 dev_dependencies:
   flutter_test:
